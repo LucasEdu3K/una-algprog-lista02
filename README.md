@@ -4,16 +4,16 @@ Este repositório contém os exercícios e fluxogramas desenvolvidos na discipli
 
 Organização dos arquivos
 
-1. [AtividadeLista02](AtividadeLista02)  
+1. [AtividadeLista02](AtividadeLista2)  
    Arquivo com os algoritmos da lista de exercícios.
 
-2. [O filtro do Instagram](filtro_insta.png)  
+2. [O filtro do Instagram](O Filtro do Instagram.png)  
    Fluxograma representando o funcionamento do filtro do Instagram.  
-   ![Fluxograma do filtro do Instagram](filtro_insta.png)
+   ![Fluxograma do filtro do Instagram](O Filtro do Instagram.png)
 
-3. [O sensor de estacionamento](sensor_re.png)  
+3. [O sensor de estacionamento](O Sensor de Estacionamento.png)  
    Fluxograma representando o funcionamento do sensor de estacionamento.  
-   ![Fluxograma do sensor de estacionamento](sensor_re.png)
+   ![Fluxograma do sensor de estacionamento](O Sensor de Estacionamento.png)
 
 Observações
 - Os arquivos foram adicionados individualmente, sem estrutura de pastas.  
