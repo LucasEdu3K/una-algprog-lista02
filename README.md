@@ -1,4 +1,4 @@
-Lista 02 - Algoritmos e Programação
+# Lista 02 - Algoritmos e Programação comecei 23/03/2026
 
 Este repositório contém os exercícios e fluxogramas desenvolvidos na disciplina de Algoritmos e Programação.
 
